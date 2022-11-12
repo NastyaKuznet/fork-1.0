@@ -6,7 +6,7 @@ namespace Fork
     {
         public static void Main()
         {
-            Console.WriteLine("Fork!!!");
+            Console.WriteLine("Fork 10!!!");
         }
     }
 }
